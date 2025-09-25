@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: msteams 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-25 00:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. UI strings
+msgid "MS Teams"
+msgstr ""
+
+msgid "PJSIP Trunk"
+msgstr ""
+
+msgid "-- select --"
+msgstr ""
+
+msgid "MS Teams Signaling Address (FQDN)"
+msgstr ""
+
+msgid "Leave blank to remove and restore original transport."
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Current settings"
+msgstr ""
+
+msgid "Trunk"
+msgstr ""
+
+msgid "ms_signaling_address"
+msgstr ""
+
+msgid "Saved."
+msgstr ""
+
+msgid "msteams: msteams_trunks table created/ok"
+msgstr ""
+
+msgid "msteams: translations compiled for %s"
+msgstr ""
+
+msgid "msteams: msgfmt missing or compilation failed for %s (ignoring)"
+msgstr ""
+
+msgid "msteams: table removed"
+msgstr ""
+
+

@@ -1,0 +1,5 @@
+.DS_Store
+*.mo
+*.log
+node_modules/
+vendor/

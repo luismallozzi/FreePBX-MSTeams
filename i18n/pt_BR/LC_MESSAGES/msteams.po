@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: msteams 1.0.0\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "MS Teams"
+msgstr "MS Teams"
+
+msgid "PJSIP Trunk"
+msgstr "Tronco PJSIP"
+
+msgid "-- select --"
+msgstr "-- selecione --"
+
+msgid "MS Teams Signaling Address (FQDN)"
+msgstr "Endereço de sinalização do MS Teams (FQDN)"
+
+msgid "Leave blank to remove and restore original transport."
+msgstr "Deixe em branco para remover e restaurar o transport original."
+
+msgid "Save"
+msgstr "Salvar"
+
+msgid "Current settings"
+msgstr "Configurações atuais"
+
+msgid "Trunk"
+msgstr "Tronco"
+
+msgid "ms_signaling_address"
+msgstr "ms_signaling_address"
+
+msgid "Saved."
+msgstr "Salvo."
+
+msgid "msteams: msteams_trunks table created/ok"
+msgstr "msteams: tabela msteams_trunks criada/ok"
+
+msgid "msteams: translations compiled for %s"
+msgstr "msteams: traduções compiladas para %s"
+
+msgid "msteams: msgfmt missing or compilation failed for %s (ignoring)"
+msgstr "msteams: msgfmt ausente ou falha na compilação para %s (ignorando)"
+
+msgid "msteams: table removed"
+msgstr "msteams: tabela removida"
+
+
